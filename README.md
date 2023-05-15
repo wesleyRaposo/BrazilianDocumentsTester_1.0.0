@@ -16,6 +16,20 @@ Peço desculpas se a publicação incial foi pobre em conteúdo e espero estar c
 
 Peço também que fiquem atentos à próxima versão, que terá aluns ajustes nas classes.  
 
+# Importante!
+
+```
+Esta aplicação de teste e o pacote BrazilianDocuments na versão 1.0.0 foram descontinuados.  
+Baixe as atualizações nos links abaixo:  
+```
+
+Aplicação:
+https://github.com/wesleyRaposo/BrazilianDocumentsTester_1.0.1
+
+Pacote:
+https://www.nuget.org/packages/BrazilianDocuments/1.0.1  
+
+* O pacote deverá ser baixado direto do NuGet Gallery em seu projeto no Visual Studio.
 ---------------------
 
 # Sobre o Brazilian Documents
@@ -57,4 +71,4 @@ Este aplicação de teste está livre para uso gratuito.
 
 # Status:
 
-> :construction: Em construção :construction:
+> :construction: Descontinuado :construction:
